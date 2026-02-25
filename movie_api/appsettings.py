@@ -1,2 +1,0 @@
-BASE_URL = "https://www.omdbapi.com"
-API_KEY = "f3fa156a"
